@@ -1,0 +1,31 @@
+
+
+.img-logo {
+    height: 80px;
+}
+
+.text-green{
+    color: green !important;
+}
+
+.text-green:hover{
+    color: lightgreen !important;
+}
+
+.navbar-title{
+    color: white
+}
+.ba1-text {
+    position: absolute;
+    top: 65%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    color: white
+  }
+  .bg-blue {
+      background: darkblue;
+  }
+  footer a {
+      color: white;
+      text-decoration: none;
+  }
